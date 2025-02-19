@@ -1,1 +1,1 @@
-# Israeli-Public-Transportation-Graph
+# Israeli Public Transportation Network Graph
